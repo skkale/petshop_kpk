@@ -24,7 +24,7 @@
 
 Сторінка додавання продукутів\тварин
 ![addanimals](https://github.com/user-attachments/assets/72e0acce-2ac6-475c-980b-2cd7dade829e)
-> orig repo: Pavan R
+
 
 
 
